@@ -1,0 +1,18 @@
+{
+  "name": "gulp-babel",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jose F. Sosa <josefsosa@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
